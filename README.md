@@ -1,6 +1,8 @@
 <h1> Hi there! 👋, my name is Hilfran Marquez. </h1>
 
-I am a computer engineer and have worked as a Project Manager, Systems Administrator, and Technical Support. I am a professional with a lot of curiosity, and I enjoy constantly learning about new technologies. Currently, I am delving into the fascinating world of Blockchain. I believe that this technology has the potential to radically change the way things work, and I want to be a part of it.
+With over 5 years of diverse experience spanning roles as a Project Manager, Systems Administrator, and Technical Support, I bring a holistic understanding of information technology. My career journey reflects a passion for customer support and a commitment to delivering exceptional technical solutions. My focus is on efficient problem-solving and providing top-notch technical support to drive success in the IT field.
+In addition, I have developed strong skills in project management, team leadership, technology equipment management and customer service. My proactive, results-oriented approach and analytical skills have enabled me to successfully tackle challenges and contribute to the growth of the organisations I have worked for.
+Highly motivated and results-oriented professional with a passion for learning new technologies and understanding their societal impact. Thrives in challenging environments and continuously seeks opportunities for self-improvement.
 
 <h2>Technologies</h2>
 

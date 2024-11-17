@@ -1,4 +1,4 @@
-<h1> Hi there! 👋, my name is Hilfran Marquez. </h1>
+<h1> Hey there! 👋, I'm Hilfran Marquez. </h1>
 
 With over 5 years of diverse experience in IT, I've successfully led projects, managed complex systems, and provided technical support in various industries. My roles have included Project Manager, System Administrator, IT Consultant, and Technical Support, where I've demonstrated a strong ability to adapt to different environments and deliver results. My career journey reflects a deep passion for customer support and a strong commitment to delivering exceptional technical solutions. I specialize in efficient problem-solving and providing high-quality technical support that ensures customer satisfaction and success.
 

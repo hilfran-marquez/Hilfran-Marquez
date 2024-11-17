@@ -1,10 +1,11 @@
 <h1> Hi there! 👋, my name is Hilfran Marquez. </h1>
 
-With over 5 years of diverse experience spanning roles as a Project Manager, Systems Administrator, and Technical Support, I bring a holistic understanding of information technology. My career journey reflects a passion for customer support and a commitment to delivering exceptional technical solutions. My focus is on efficient problem-solving and providing top-notch technical support to drive success in the IT field.
+With over 5 years of diverse experience in IT, I've successfully led projects, managed complex systems, and provided technical support in various industries. My roles have included Project Manager, System Administrator, IT Consultant, and Technical Support, where I've demonstrated a strong ability to adapt to different environments and deliver results. My career journey reflects a deep passion for customer support and a strong commitment to delivering exceptional technical solutions. I specialize in efficient problem-solving and providing high-quality technical support that ensures customer satisfaction and success.
 
-In addition, I have developed strong skills in project management, team leadership, technology equipment management and customer service. My proactive, results-oriented approach and analytical skills have enabled me to successfully tackle challenges and contribute to the growth of the organizations I have worked for.
+Throughout my career, I have consistently focused on improving operational efficiency, ensuring seamless technology integration to achieve business goals and establishing excellent communication with customers.
+My experience includes project management, system administration, network administration, cybersecurity, quality assurance, virtualization, IT equipment management, website development and management.
 
-Currently, I am getting into the world of Blockchain, Cloud Services and Cybersecurity. My passion for technology pushes me to learn how technologies that have a big impact on the world work.
+Currently, I'm getting into Cybersecurity and Blockchain. My passion for technology pushes me to learn how technologies that have a big impact on the world work.
 
 <h2>Technologies</h2>
 
